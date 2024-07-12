@@ -1,0 +1,5 @@
+bucket  = "tfstate-086720243261"
+key     = "04-serverless-app/terraform.tfstate"
+region  = "us-east-1"
+profile = "default"
+dynamodb_table = "app-todo"

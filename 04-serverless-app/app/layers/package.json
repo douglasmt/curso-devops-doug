@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "zip-lib": "^1.0.4"
+  }
+}
